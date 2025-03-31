@@ -37,7 +37,9 @@ go to soundness discord server
 verify
 go to testnet access 
 paste your key like these
-!access <your public key > 
+```bash
+!access <your public key >
+``` 
 done
  
 
